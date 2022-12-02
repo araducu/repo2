@@ -1,5 +1,5 @@
 {
-	"name": "Activity Card #2",
+	"name": "Activity Card #2-test-submodule",
 	"shortDescription": "Activity used for practicing",
 	"icon": "testIcon.svg",
 	"descriptionMarkdown": "activityRegression.md",
